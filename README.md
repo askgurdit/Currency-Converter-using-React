@@ -5,6 +5,14 @@ Welcome to the Currency Converter project built using Vite and React! This appli
 ## Visit the Live Website
 https://currency-converter-using-react-wine.vercel.app/
 
+
+## Screenshots and Videos
+- Screenshot of the UI: ![UI Currency Converter](https://github.com/askgurdit/Currency-Converter-using-React/assets/118066728/cd91a05d-e712-4fc2-8c44-de8791e73b5e)
+
+- Video Demonstration: 
+https://github.com/askgurdit/Currency-Converter-using-React/assets/118066728/bb8ffc82-76b5-4365-b810-a25d8f8eaf5e
+
+
 ## GitHub URL: 
 https://github.com/askgurdit/Currency-Converter-using-React
 
@@ -67,13 +75,6 @@ https://github.com/askgurdit/Currency-Converter-using-React
     ```sh
     npm run dev
     ```
-
-## Screenshots and Videos
-- Screenshot of the UI: ![UI Currency Converter](https://github.com/askgurdit/Currency-Converter-using-React/assets/118066728/cd91a05d-e712-4fc2-8c44-de8791e73b5e)
-
-- Video Demonstration: 
-https://github.com/askgurdit/Currency-Converter-using-React/assets/118066728/bb8ffc82-76b5-4365-b810-a25d8f8eaf5e
-
 
 ## License
 This project is licensed under the MIT License.
