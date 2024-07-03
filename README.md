@@ -2,6 +2,12 @@
 
 Welcome to the Currency Converter project built using Vite and React! This application allows users to convert between different currencies with real-time exchange rates.
 
+## Visit the Live Website
+https://currency-converter-using-react-wine.vercel.app/
+
+## GitHub URL: 
+https://github.com/askgurdit/Currency-Converter-using-React
+
 ## Features
 - Real-time exchange rate data
 - User-friendly and intuitive interface
